@@ -1,4 +1,4 @@
-# This is my thesis, before it's completed
+# This is my thesis
 
 This is an experiment. I'm hoping that by making my work on my thesis public,
 my time will become more accountable by the fact that anyone will be able to
